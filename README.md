@@ -6,9 +6,9 @@
 - #### 🪪 Name: Artem
 - #### 🗓 Age: 16 y.o
 - #### 🇷🇺 Country: Russia
-- #### 📖I study: School - 11th grade
-- #### 😊I like: memes and programming
-- #### 🚘Dream: BMW M5 F90
+- #### 📖 I study: School - 11th grade
+- #### 😊 I like: memes and programming
+- #### 🚘 Dream: BMW M5 F90
 - #### 📌 Goal: Go - Backend Developer
 </div>
 
