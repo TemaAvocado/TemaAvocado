@@ -1,4 +1,4 @@
-<h1 align="center">👋Hello, I'm Tema Avocado🥑!</h1>
+<h1 align="center">👋Hello, I'm Tema Avocado🥑</h1>
 
 <div>
 <h2 align="center">🗃About me🗃</h2>
