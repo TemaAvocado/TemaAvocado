@@ -26,5 +26,5 @@
 
 <h2 align="center">⭐My Stats⭐</h2>
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TemaAvocado&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TemaAvocado&layout=compact)
